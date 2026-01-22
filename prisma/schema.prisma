@@ -1,0 +1,124 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+// --- AUTH & SYSTEM ---
+model User {
+  id        String   @id @default(uuid())
+  email     String   @unique
+  role      String   @default("STAFF")
+  createdAt DateTime @default(now())
+}
+
+model ImportJob {
+  id        String   @id @default(uuid())
+  filename  String
+  status    String // PENDING, COMPLETED, FAILED
+  log       Json?
+  createdAt DateTime @default(now())
+}
+
+// --- THE HUB (Golden Record) ---
+model Guest {
+  id             String   @id @default(uuid())
+  fullName       String?
+  normalizedName String? // Lowercase/trimmed for matching
+  email          String?  @unique
+  phone          String?  @unique
+
+  // Relations
+  appointments    Appointment[]
+  creditProfile   CreditProfile?
+  loyaltyAccounts LoyaltyAccount[]
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}
+
+// --- SPOKES ---
+model Appointment {
+  id                String   @id @default(uuid())
+  guestId           String
+  guest             Guest    @relation(fields: [guestId], references: [id])
+  
+  // --- Core Identifiers ---
+  serviceName       String   // "Service Name"
+  appointmentDate   DateTime // "Appointment Date"
+  status            String?  // "Status"
+  invoiceNo         String?  // "Invoice No" (Note: One invoice can have multiple rows/services)
+  centerName        String?  // "Center Name"
+  
+  // --- Timing ---
+  bookedDate        DateTime? // "Booked Date"
+  startTime         DateTime? // "Start Time"
+  endTime           DateTime? // "End Time"
+  duration          String?   // "Scheduled Service Duration"
+  recoveryTime      String?   // "Recovery Time"
+  
+  // --- Staff & Location ---
+  provider          String?   // "Provider"
+  room              String?   // "Room"
+  bookedBy          String?   // "Booked By"
+  
+  // --- Categorization ---
+  serviceCategory   String?   // "Service Category"
+  appointmentCategory String? // "Appointment Category"
+  bookingSource     String?   // "Booking Source"
+  rebookingSource   String?   // "Rebooking Source"
+  
+  // --- Flags & Metadata ---
+  addOn             Boolean?  // "Add-on" (Yes/No)
+  rebooked          Boolean?  // "Rebooked" (Yes/No)
+  genderSnapshot    String?   // "Gender"
+  notes             String?   // "Appointment Notes"
+  
+  // --- Technical ---
+  // Composite Key: guestId + startTime + serviceName to distinguish multiple services in one visit
+  rawId             String    @unique 
+  createdAt         DateTime  @default(now())
+  updatedAt         DateTime  @updatedAt
+}
+
+model CreditProfile {
+  id             String    @id @default(uuid())
+  guestId        String    @unique
+  guest          Guest     @relation(fields: [guestId], references: [id])
+  provider       String    @default("CHERRY")
+  approvedAmount Float?
+  expirationDate DateTime?
+}
+
+model LoyaltyAccount {
+  id             String   @id @default(uuid())
+  guestId        String
+  guest          Guest    @relation(fields: [guestId], references: [id])
+  programName    String   // "EVOLUS", "ASPIRE"
+  
+  // Aggregates (Updated by script)
+  totalBalance   Float?   // Sum of valid rewards
+  nextEligibleDate DateTime? // Specific to Evolus (Re-booking opportunity)
+  
+  rewards        LoyaltyReward[]
+  updatedAt      DateTime @updatedAt
+}
+
+model LoyaltyReward {
+  id               String         @id @default(uuid())
+  loyaltyAccountId String
+  account          LoyaltyAccount @relation(fields: [loyaltyAccountId], references: [id])
+  
+  name             String         // e.g. "Welcome Offer", "Birthday Reward"
+  amount           Float          // e.g. 20.0
+  expirationDate   DateTime?
+  
+  // To prevent duplicates on re-import
+  rawId            String         @unique // Format: guestId_program_amount_expiration
+  status           String         @default("ACTIVE") // "ACTIVE", "EXPIRED"
+  
+  createdAt        DateTime       @default(now())
+}

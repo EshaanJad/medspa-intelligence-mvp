@@ -1,0 +1,137 @@
+Facility ID,Facility Name,Patient Name,Patient DOB (Date of Birth),Patient Phone Number,Patient Email,Previous Check-Ins,Loyalty Program,Status,Reward Amount,Treatment Eligible Date,Reward Expiration Date,First Rewards Check-In Date,Last Rewards Check-In Date,Last Treated By
+F-111195,VIO Med Spa Flower Mound,Kristina Ramos,02/01/1971,367-801-4047,aliceduncan@example.com,1,REWARDS,Not Yet Eligible,$40,04/16/2026,07/16/2027,01/16/2026,01/16/2026,Diana Miranda
+F-111195,VIO Med Spa Flower Mound,Lisa Grant,07/27/1982,743-375-1092,hmills@example.org,0,REWARDS,Eligible for Treatment,$40,01/07/2026,07/07/2027,,,
+F-111195,VIO Med Spa Flower Mound,Michael Sosa,11/08/1965,418-248-5317,stephanierichards@example.org,1,REWARDS,Not Yet Eligible,$40,04/02/2026,07/02/2027,01/02/2026,01/02/2026,Diana Miranda
+F-111195,VIO Med Spa Flower Mound,Kaitlin Mason,03/23/1996,+1-578-525-7728,zoe52@example.net,1,REWARDS,Not Yet Eligible,$40,03/30/2026,06/30/2027,12/30/2025,12/30/2025,Diana Miranda
+F-111195,VIO Med Spa Flower Mound,Mr. Steven Bennett,05/10/1978,281.355.9920x21468,craigtonya@example.org,1,REWARDS,Not Yet Eligible,$40,03/18/2026,06/18/2027,12/18/2025,12/18/2025,Diana Miranda
+F-111195,VIO Med Spa Flower Mound,David Rodriguez,07/21/1991,560-628-2193x90762,guzmanjacob@example.com,1,REWARDS,Not Yet Eligible,$40,03/17/2026,06/17/2027,12/17/2025,12/17/2025,Diana Miranda
+F-111195,VIO Med Spa Flower Mound,Teresa Baker,11/26/1976,+1-348-612-2388x2752,mbrewer@example.com,1,REWARDS,Not Yet Eligible,$40,03/13/2026,06/13/2027,12/13/2025,12/13/2025,Michelle 
+F-111195,VIO Med Spa Flower Mound,Patrick Flores,11/04/1988,445.429.4501x624,gcollins@example.com,1,REWARDS,Not Yet Eligible,$40,03/13/2026,06/13/2027,12/13/2025,12/13/2025,Michelle 
+F-111195,VIO Med Spa Flower Mound,Cameron Baker,12/09/1970,950-963-8353x5867,davidgarcia@example.org,1,REWARDS,Not Yet Eligible,$40,03/10/2026,06/11/2027,12/11/2025,12/11/2025,Diana Miranda
+F-111195,VIO Med Spa Flower Mound,Sarah Black,09/16/1994,614-215-3515,ptucker@example.net,1,REWARDS,Not Yet Eligible,$40,03/10/2026,06/10/2027,12/10/2025,12/10/2025,Diana Miranda
+F-111195,VIO Med Spa Flower Mound,Jennifer Pugh,12/16/1969,(698)793-1304x7728,jnunez@example.net,1,REWARDS,Not Yet Eligible,$40,03/10/2026,06/10/2027,12/10/2025,12/10/2025,Diana Miranda
+F-111195,VIO Med Spa Flower Mound,Gina Rodriguez,12/10/1971,565.813.7065,phillipsjudy@example.org,1,REWARDS,Not Yet Eligible,$40,03/10/2026,06/10/2027,12/10/2025,12/10/2025,Diana Miranda
+F-111195,VIO Med Spa Flower Mound,Andrew Weber,05/03/1969,545.969.9732,cunninghamhelen@example.com,1,REWARDS,Not Yet Eligible,$40,03/08/2026,06/08/2027,12/08/2025,12/08/2025,Michelle 
+F-111195,VIO Med Spa Flower Mound,Adam Powell,04/20/1984,+1-211-315-7945x6466,benjaminmartin@example.com,1,REWARDS,Not Yet Eligible,$40,03/03/2026,06/03/2027,12/03/2025,12/03/2025,Diana Miranda
+F-111195,VIO Med Spa Flower Mound,Kara Hartman,05/28/1985,972-944-7694x78353,christinemiller@example.org,1,REWARDS,Not Yet Eligible,$40,03/02/2026,06/02/2027,12/02/2025,12/02/2025,Diana Miranda
+F-111195,VIO Med Spa Flower Mound,Megan Leblanc,04/28/1984,001-269-965-0375,crystallong@example.org,1,REWARDS,Not Yet Eligible,$40,02/23/2026,05/26/2027,11/26/2025,11/26/2025,Diana Miranda
+F-111195,VIO Med Spa Flower Mound,James Mason,02/02/1982,988.764.0260,dwalker@example.org,1,REWARDS,Not Yet Eligible,$40,02/23/2026,05/26/2027,11/26/2025,11/26/2025,Diana Miranda
+F-111195,VIO Med Spa Flower Mound,Kevin Carroll,06/27/1972,(334)436-3135x184,jenniferhaynes@example.com,1,REWARDS,Not Yet Eligible,$40,02/20/2026,05/22/2027,11/22/2025,11/22/2025,Diana Miranda
+F-111195,VIO Med Spa Flower Mound,Albert Brady,01/29/1989,001-611-473-2058x247,salasmichael@example.com,1,REWARDS,Not Yet Eligible,$40,02/18/2026,05/20/2027,11/20/2025,11/20/2025,rebecca bievenue
+F-111195,VIO Med Spa Flower Mound,Amanda Johnson,01/17/1976,(858)475-2075x63382,meredithhammond@example.org,1,REWARDS,Not Yet Eligible,$40,02/12/2026,05/14/2027,11/14/2025,11/14/2025,Diana Miranda
+F-111195,VIO Med Spa Flower Mound,Jonathon Pearson,12/28/1987,(723)541-9713,eguerrero@example.com,1,REWARDS,Not Yet Eligible,$40,02/11/2026,05/14/2027,11/14/2025,11/14/2025,rebecca bievenue
+F-111195,VIO Med Spa Flower Mound,John Charles,10/24/1968,487.236.4545,shannon51@example.com,1,REWARDS,Not Yet Eligible,$40,02/10/2026,05/12/2027,11/12/2025,11/12/2025,Diana Miranda
+F-111195,VIO Med Spa Flower Mound,Benjamin Stewart,07/06/1967,300.440.0282,wrichards@example.com,0,REWARDS,Eligible for Treatment,$40,11/08/2025,05/08/2027,,,
+F-111195,VIO Med Spa Flower Mound,Patricia Johnson PhD,09/23/1972,+1-544-304-0344,tpatel@example.org,1,REWARDS,Not Yet Eligible,$40,02/03/2026,05/05/2027,11/05/2025,11/05/2025,Diana Miranda
+F-111195,VIO Med Spa Flower Mound,Roberta Davis,09/09/1992,9888618387,brandonmolina@example.com,1,REWARDS,Not Yet Eligible,$40,02/03/2026,05/05/2027,11/05/2025,11/05/2025,Diana Miranda
+F-111195,VIO Med Spa Flower Mound,Pamela Conrad,08/29/1963,001-850-684-2343x3609,mariacherry@example.com,1,REWARDS,Not Yet Eligible,$40,01/28/2026,04/30/2027,10/30/2025,10/30/2025,rebecca bievenue
+F-111195,VIO Med Spa Flower Mound,Chris Shepherd,06/19/1986,001-761-391-1232x15647,wcarroll@example.net,1,REWARDS,Not Yet Eligible,$40,01/27/2026,04/29/2027,10/29/2025,10/29/2025,Diana Miranda
+F-111195,VIO Med Spa Flower Mound,Robert Brown,12/14/1964,001-430-239-7286x48617,kathy16@example.net,1,REWARDS,Not Yet Eligible,$40,01/26/2026,04/28/2027,10/28/2025,10/28/2025,Diana Miranda
+F-111195,VIO Med Spa Flower Mound,Christine Brown,03/15/1978,303-908-1086x74904,ewilliams@example.net,1,REWARDS,Not Yet Eligible,$40,01/23/2026,04/25/2027,10/25/2025,10/25/2025,Diana Miranda
+F-111195,VIO Med Spa Flower Mound,Amber Lee,02/28/1990,(525)477-6764,donald60@example.org,1,REWARDS,Eligible for Treatment,$40,01/13/2026,04/15/2027,10/15/2025,10/15/2025,Diana Miranda
+F-111195,VIO Med Spa Flower Mound,Jeff Fernandez,02/18/1980,+1-233-914-0712x178,wnorris@example.org,1,REWARDS,Eligible for Treatment,$40,01/13/2026,04/15/2027,10/15/2025,10/15/2025,Diana Miranda
+F-111195,VIO Med Spa Flower Mound,Ryan Johnson,07/11/1955,771.975.6493,hughesnancy@example.net,1,REWARDS,Eligible for Treatment,$40,01/13/2026,04/15/2027,10/15/2025,10/15/2025,Diana Miranda
+F-111195,VIO Med Spa Flower Mound,Shawn Franklin,05/16/1988,001-911-566-3621x1325,carolyn69@example.org,1,REWARDS,Eligible for Treatment,$40,01/09/2026,04/11/2027,10/11/2025,10/11/2025,Diana Miranda
+F-111195,VIO Med Spa Flower Mound,John Potter,06/01/1983,(814)778-7318x06214,dariusmaldonado@example.net,0,REWARDS,Eligible for Treatment,$40,10/10/2025,04/10/2027,,,
+F-111195,VIO Med Spa Flower Mound,Jeremy Mitchell,02/20/1968,001-267-421-7226x58792,michaelwade@example.com,1,REWARDS,Eligible for Treatment,$40,01/08/2026,04/10/2027,10/10/2025,10/10/2025,Diana Miranda
+F-111195,VIO Med Spa Flower Mound,Elizabeth Richards,09/06/1955,+1-216-739-8288x61284,ashleyboyd@example.net,1,REWARDS,Eligible for Treatment,$40,01/07/2026,04/09/2027,10/09/2025,10/09/2025,Diana Miranda
+F-111195,VIO Med Spa Flower Mound,Robin Ponce,05/09/1983,+1-985-951-2706x4036,tiffanyanderson@example.net,1,REWARDS,Eligible for Treatment,$40,01/05/2026,04/07/2027,10/07/2025,10/07/2025,rebecca bievenue
+F-111195,VIO Med Spa Flower Mound,Crystal Reeves,04/30/1997,001-377-657-6579x31586,vvillarreal@example.org,1,REWARDS,Eligible for Treatment,$40,01/12/2026,04/14/2027,10/14/2025,10/14/2025,Diana Miranda
+F-111195,VIO Med Spa Flower Mound,Sara Allen,09/19/1973,531.379.1947,susanfisher@example.net,1,REWARDS,Eligible for Treatment,$40,01/01/2026,04/03/2027,10/03/2025,10/03/2025,Diana Miranda
+F-111195,VIO Med Spa Flower Mound,Mary Munoz DVM,04/07/1991,9599696921,stephanie56@example.org,1,REWARDS,Eligible for Treatment,$40,01/01/2026,04/03/2027,10/03/2025,10/03/2025,Diana Miranda
+F-111195,VIO Med Spa Flower Mound,Meredith Dunn,04/01/1983,001-642-914-7757x38066,zpearson@example.com,1,REWARDS,Eligible for Treatment,$40,12/31/2025,04/02/2027,10/02/2025,10/02/2025,rebecca bievenue
+F-111195,VIO Med Spa Flower Mound,Mr. Scott Becker,04/10/1998,265-313-3150,taylorandrea@example.org,1,REWARDS,Eligible for Treatment,$40,12/29/2025,03/30/2027,09/30/2025,09/30/2025,Diana Miranda
+F-111195,VIO Med Spa Flower Mound,Michelle Vasquez,07/27/1986,001-538-680-4714,jeffreyduncan@example.net,1,REWARDS,Eligible for Treatment,$40,12/28/2025,03/29/2027,09/29/2025,09/29/2025,rebecca bievenue
+F-111195,VIO Med Spa Flower Mound,Andrew Rodriguez,11/30/1981,001-415-910-7619x214,zhowell@example.net,2,REWARDS,Not Yet Eligible,$40,03/20/2026,06/20/2027,09/19/2025,12/20/2025,rebecca bievenue
+F-111195,VIO Med Spa Flower Mound,Lawrence Peters,06/22/1980,+1-270-429-8419x960,esmith@example.net,1,REWARDS,Eligible for Treatment,$40,12/18/2025,03/19/2027,09/19/2025,09/19/2025,Diana Miranda
+F-111195,VIO Med Spa Flower Mound,Alicia Bell,01/12/1981,361-545-9248x456,karenlopez@example.net,2,REWARDS,Not Yet Eligible,$40,03/20/2026,06/20/2027,09/18/2025,12/20/2025,rebecca bievenue
+F-111195,VIO Med Spa Flower Mound,Micheal Baker,10/05/1980,(780)760-7651x74550,jessica15@example.com,1,REWARDS,Eligible for Treatment,$40,12/17/2025,03/18/2027,09/18/2025,09/18/2025,rebecca bievenue
+F-111195,VIO Med Spa Flower Mound,Kristi Harris,02/28/1985,359-423-0888x81052,william30@example.org,1,REWARDS,Eligible for Treatment,$40,12/09/2025,03/10/2027,09/10/2025,09/10/2025,Diana Miranda
+F-111195,VIO Med Spa Flower Mound,Dan Higgins,04/26/1975,457-682-1012,annabell@example.com,1,REWARDS,Eligible for Treatment,$40,12/08/2025,03/09/2027,09/09/2025,09/09/2025,rebecca bievenue
+F-111195,VIO Med Spa Flower Mound,Christina Peterson,08/08/1966,(601)621-9082,johnsrobert@example.com,1,REWARDS,Eligible for Treatment,$40,12/04/2025,03/05/2027,09/05/2025,09/05/2025,Diana Miranda
+F-111195,VIO Med Spa Flower Mound,Lisa Hernandez,08/13/1993,277-402-3937,moorewalter@example.com,2,REWARDS,Not Yet Eligible,$40,03/26/2026,06/26/2027,09/02/2025,12/26/2025,Diana Miranda
+F-111195,VIO Med Spa Flower Mound,Sean Johnson,05/07/1991,536.996.7707x3487,yfrye@example.net,1,REWARDS,Eligible for Treatment,$40,11/27/2025,03/01/2027,08/29/2025,08/29/2025,Diana Miranda
+F-111195,VIO Med Spa Flower Mound,Shane Lee,08/15/1962,802-723-3215x436,ruizkathryn@example.com,2,REWARDS,Not Yet Eligible,$40,04/15/2026,07/15/2027,08/25/2025,01/15/2026,rebecca bievenue
+F-111195,VIO Med Spa Flower Mound,Brandon Adams,06/28/2002,001-918-761-8179x75656,michaela33@example.org,1,REWARDS,Eligible for Treatment,$40,11/21/2025,02/23/2027,08/23/2025,08/23/2025,Diana Miranda
+F-111195,VIO Med Spa Flower Mound,Rebecca Cole,09/30/1988,001-976-606-9471,michael69@example.org,0,REWARDS,Eligible for Treatment,$40,08/21/2025,02/21/2027,,,
+F-111195,VIO Med Spa Flower Mound,Aaron Banks,05/21/1973,517.816.3090x8003,grimesnicole@example.org,0,REWARDS,Eligible for Treatment,$40,08/13/2025,02/13/2027,,,
+F-111195,VIO Med Spa Flower Mound,Zachary Ayala,08/01/1958,(540)448-9471x72443,courtneyburke@example.org,2,REWARDS,Not Yet Eligible,$40,02/23/2026,05/25/2027,08/11/2025,11/25/2025,Diana Miranda
+F-111195,VIO Med Spa Flower Mound,Ricky Figueroa,11/28/1981,+1-853-658-0624,kelsey49@example.org,1,REWARDS,Eligible for Treatment,$40,11/07/2025,02/09/2027,08/09/2025,08/09/2025,Esther Yun
+F-111195,VIO Med Spa Flower Mound,Reginald Townsend,07/30/1995,001-613-296-9378,tracy25@example.com,1,REWARDS,Eligible for Treatment,$40,11/05/2025,02/07/2027,08/07/2025,08/07/2025,Diana Miranda
+F-111195,VIO Med Spa Flower Mound,Clinton Roman,09/29/1980,+1-600-616-7020x118,chelsea27@example.net,1,REWARDS,Eligible for Treatment,$40,11/05/2025,02/07/2027,08/07/2025,08/07/2025,Diana Miranda
+F-111195,VIO Med Spa Flower Mound,David Smith,01/19/1979,943-599-9914,rosariobrianna@example.com,1,REWARDS,Eligible for Treatment,$40,10/30/2025,02/01/2027,08/01/2025,08/01/2025,Diana Miranda
+F-111195,VIO Med Spa Flower Mound,Raven Parker,11/08/1961,001-878-352-3579x0565,lmarshall@example.com,1,REWARDS,Eligible for Treatment,$40,10/23/2025,01/25/2027,07/25/2025,07/25/2025,Diana Miranda
+F-111195,VIO Med Spa Flower Mound,Robert Davis,06/03/1969,+1-450-534-4779x1057,jenniferchapman@example.net,1,REWARDS,Eligible for Treatment,$40,10/23/2025,01/25/2027,07/25/2025,07/25/2025,Diana Miranda
+F-111195,VIO Med Spa Flower Mound,Scott Washington,01/14/2000,(917)207-5391,webercheryl@example.org,2,REWARDS,Eligible for Treatment,$40,01/19/2026,04/21/2027,07/19/2025,10/21/2025,rebecca bievenue
+F-111195,VIO Med Spa Flower Mound,Leslie Fisher,08/10/1976,001-976-538-9615x8092,jeremiah79@example.net,1,REWARDS,Eligible for Treatment,$40,10/17/2025,01/19/2027,07/19/2025,07/19/2025,rebecca bievenue
+F-111195,VIO Med Spa Flower Mound,Laura Jenkins,10/09/1988,286.505.7620,sstanton@example.net,1,REWARDS,Eligible for Treatment,$40,10/17/2025,01/19/2027,07/19/2025,07/19/2025,rebecca bievenue
+F-111195,VIO Med Spa Flower Mound,Alyssa Lam,01/16/1992,322.308.4343x9822,kimberlycampbell@example.org,2,REWARDS,Not Yet Eligible,$40,02/04/2026,05/07/2027,07/10/2025,11/07/2025,Diana Miranda
+F-111195,VIO Med Spa Flower Mound,James Wolfe,09/03/1987,999.824.7561x81237,debrawalker@example.net,2,REWARDS,Not Yet Eligible,$40,03/17/2026,06/17/2027,07/09/2025,12/17/2025,Diana Miranda
+F-111195,VIO Med Spa Flower Mound,Joshua Suarez,04/22/1982,814-304-4813,thomasjonathan@example.com,2,REWARDS,Not Yet Eligible,$40,01/20/2026,04/22/2027,07/02/2025,10/22/2025,Diana Miranda
+F-111195,VIO Med Spa Flower Mound,Beth Thomas,01/06/1984,987-369-2887,jeremy80@example.net,1,REWARDS,Eligible for Treatment,$40,09/24/2025,12/26/2026,06/26/2025,06/26/2025,Diana Miranda
+F-111195,VIO Med Spa Flower Mound,Jeffrey Garcia,05/17/1974,975.416.9388,teresa23@example.net,1,REWARDS,Eligible for Treatment,$40,09/24/2025,12/26/2026,06/26/2025,06/26/2025,Diana Miranda
+F-111195,VIO Med Spa Flower Mound,Joshua Smith,09/17/1995,(386)478-0751x29490,pclark@example.net,1,REWARDS,Eligible for Treatment,$40,09/14/2025,12/16/2026,06/16/2025,06/16/2025,Diana Miranda
+F-111195,VIO Med Spa Flower Mound,Amanda Beck,04/26/1976,001-871-464-5561x91180,moraleschristian@example.net,1,REWARDS,Eligible for Treatment,$40,09/12/2025,12/14/2026,06/14/2025,06/14/2025,Diana Miranda
+F-111195,VIO Med Spa Flower Mound,Jamie Murphy,08/18/1973,(951)899-2151x6310,bglenn@example.org,1,REWARDS,Eligible for Treatment,$40,09/08/2025,12/10/2026,06/10/2025,06/10/2025,rebecca bievenue
+F-111195,VIO Med Spa Flower Mound,Rachel Lee,06/25/1987,512-539-6028x500,michelle34@example.net,1,REWARDS,Eligible for Treatment,$40,09/01/2025,12/03/2026,06/03/2025,06/03/2025,Diana Miranda
+F-111195,VIO Med Spa Flower Mound,Mr. Todd Austin DVM,01/18/1983,678-545-5185x4460,ryan25@example.net,1,REWARDS,Eligible for Treatment,$40,08/26/2025,11/28/2026,05/28/2025,05/28/2025,Diana Miranda
+F-111195,VIO Med Spa Flower Mound,Shelly Clark,04/22/1975,752.410.1455x89943,huffjacob@example.org,1,REWARDS,Eligible for Treatment,$40,08/22/2025,11/24/2026,05/24/2025,05/24/2025,Diana Miranda
+F-111195,VIO Med Spa Flower Mound,Mitchell Moon,10/04/1941,991.692.4699x72730,moyeramber@example.net,2,REWARDS,Eligible for Treatment,$40,11/24/2025,02/26/2027,05/24/2025,08/26/2025,Diana Miranda
+F-111195,VIO Med Spa Flower Mound,Raymond Allen,07/21/1988,+1-523-428-1069x1676,nicolecollins@example.org,1,REWARDS,Eligible for Treatment,$40,08/21/2025,11/23/2026,05/23/2025,05/23/2025,Diana Miranda
+F-111195,VIO Med Spa Flower Mound,Dale Davis,03/27/2000,9423551767,waltersrodney@example.com,1,REWARDS,Eligible for Treatment,$40,08/20/2025,11/22/2026,05/22/2025,05/22/2025,Diana Miranda
+F-111195,VIO Med Spa Flower Mound,Sara Sherman,12/20/1971,227.919.4974x4020,chad49@example.org,1,REWARDS,Eligible for Treatment,$40,08/19/2025,11/21/2026,05/21/2025,05/21/2025,Diana Miranda
+F-111195,VIO Med Spa Flower Mound,Lindsay Pineda,07/17/1976,001-906-622-3073x413,hollyrobertson@example.net,2,REWARDS,Eligible for Treatment,$40,12/16/2025,03/17/2027,05/21/2025,09/17/2025,Diana Miranda
+F-111195,VIO Med Spa Flower Mound,Kelly Holland,07/21/1998,411-278-8220,colliermorgan@example.net,1,REWARDS,Eligible for Treatment,$40,08/15/2025,11/17/2026,05/17/2025,05/17/2025,rebecca bievenue
+F-111195,VIO Med Spa Flower Mound,Maurice Romero,05/12/1980,(888)821-3162x2509,robert35@example.net,1,REWARDS,Eligible for Treatment,$40,08/14/2025,11/16/2026,05/16/2025,05/16/2025,Diana Miranda
+F-111195,VIO Med Spa Flower Mound,Natasha Martinez,01/16/1971,+1-439-225-0381,sarahjackson@example.org,1,REWARDS,Eligible for Treatment,$40,08/14/2025,11/16/2026,05/16/2025,05/16/2025,Diana Miranda
+F-111195,VIO Med Spa Flower Mound,Linda Cameron,02/15/1973,558-222-7192,josephwilliams@example.com,2,REWARDS,Not Yet Eligible,$40,01/21/2026,04/23/2027,05/15/2025,10/23/2025,Diana Miranda
+F-111195,VIO Med Spa Flower Mound,Joshua Mitchell,06/06/1978,+1-720-970-9457x9373,carlos55@example.org,2,REWARDS,Not Yet Eligible,$40,01/26/2026,04/28/2027,05/14/2025,10/28/2025,Diana Miranda
+F-111195,VIO Med Spa Flower Mound,Christopher Lutz,04/21/1981,+1-444-903-6356x2585,deborahjones@example.org,3,REWARDS,Not Yet Eligible,$40,03/12/2026,06/12/2027,05/09/2025,12/12/2025,rebecca bievenue
+F-111195,VIO Med Spa Flower Mound,Kathryn Burns,03/15/1977,001-521-381-3672x61297,thall@example.net,2,REWARDS,Eligible for Treatment,$40,11/21/2025,02/23/2027,05/07/2025,08/23/2025,rebecca bievenue
+F-111195,VIO Med Spa Flower Mound,Tammy Murphy,08/06/1969,613.814.8442x5133,qtorres@example.net,1,REWARDS,Eligible for Treatment,$40,08/03/2025,11/05/2026,05/05/2025,05/05/2025,rebecca bievenue
+F-111195,VIO Med Spa Flower Mound,Russell Clarke,10/05/1980,724.857.2176,wilsonashlee@example.net,0,REWARDS,Eligible for Treatment,$40,05/05/2025,11/05/2026,,,
+F-111195,VIO Med Spa Flower Mound,Ashley Cox,04/06/1968,001-649-637-1171x6794,darren88@example.net,2,REWARDS,Not Yet Eligible,$40,02/20/2026,05/22/2027,05/03/2025,11/22/2025,Diana Miranda
+F-111195,VIO Med Spa Flower Mound,Rebecca Dickson,12/15/1975,453.534.6074x892,pgonzalez@example.com,1,REWARDS,Eligible for Treatment,$40,07/29/2025,10/30/2026,04/30/2025,04/30/2025,Diana Miranda
+F-111195,VIO Med Spa Flower Mound,Aaron Banks,05/21/1973,+1-715-641-6501x4729,grimesnicole@example.org,3,REWARDS,Not Yet Eligible,$40,03/17/2026,06/17/2027,04/30/2025,12/17/2025,Diana Miranda
+F-111195,VIO Med Spa Flower Mound,Elizabeth Reed,12/28/1974,001-778-885-2071,iferguson@example.net,1,REWARDS,Eligible for Treatment,$40,07/20/2025,10/21/2026,04/21/2025,04/21/2025,rebecca bievenue
+F-111195,VIO Med Spa Flower Mound,Steven Brooks,08/23/1987,001-858-487-4263x7360,shorton@example.net,2,REWARDS,Eligible for Treatment,$40,11/06/2025,02/08/2027,04/12/2025,08/08/2025,Diana Miranda
+F-111195,VIO Med Spa Flower Mound,Amanda Willis,05/28/1974,(792)972-5400x9766,tmiranda@example.org,2,REWARDS,Eligible for Treatment,$40,01/16/2026,04/18/2027,04/05/2025,10/18/2025,rebecca bievenue
+F-111195,VIO Med Spa Flower Mound,Mary Richardson,08/17/1987,001-499-959-9884,chloekidd@example.com,1,REWARDS,Eligible for Treatment,$40,06/30/2025,10/01/2026,04/01/2025,04/01/2025,rebecca bievenue
+F-111195,VIO Med Spa Flower Mound,Jonathan Gomez,12/21/1960,(624)361-6939x128,elindsey@example.org,2,REWARDS,Eligible for Treatment,$40,10/15/2025,01/17/2027,04/01/2025,07/17/2025,rebecca bievenue
+F-111195,VIO Med Spa Flower Mound,John Potter,06/01/1983,+1-805-478-3826x60276,nicole87@example.net,3,REWARDS,Not Yet Eligible,$40,04/08/2026,07/08/2027,03/28/2025,01/08/2026,Diana Miranda
+F-111195,VIO Med Spa Flower Mound,Christopher Mills,05/03/1964,456.359.8280x0331,jenniferduncan@example.org,1,REWARDS,Eligible for Treatment,$40,06/24/2025,09/26/2026,03/26/2025,03/26/2025,Diana Miranda
+F-111195,VIO Med Spa Flower Mound,Alexandra Stephens DVM,05/07/1971,001-252-760-9567,hunterteresa@example.org,2,REWARDS,Eligible for Treatment,$40,12/09/2025,03/10/2027,03/25/2025,09/10/2025,Diana Miranda
+F-111195,VIO Med Spa Flower Mound,William Taylor,01/26/1992,001-634-951-9229x4958,shafferyvonne@example.org,2,REWARDS,Eligible for Treatment,$40,11/27/2025,03/01/2027,03/25/2025,08/29/2025,Diana Miranda
+F-111195,VIO Med Spa Flower Mound,Christopher Clark,10/12/1960,(490)638-1164x012,amberbradley@example.net,1,REWARDS,Eligible for Treatment,$40,06/22/2025,09/24/2026,03/24/2025,03/24/2025,Diana Miranda
+F-111195,VIO Med Spa Flower Mound,John Gonzalez,05/12/1964,9443277785,lori94@example.org,1,REWARDS,Eligible for Treatment,$40,06/19/2025,09/21/2026,03/21/2025,03/21/2025,Diana Miranda
+F-111195,VIO Med Spa Flower Mound,Roger Gomez,11/03/1984,696.755.8717x706,frankpaul@example.net,1,REWARDS,Eligible for Treatment,$40,06/17/2025,09/19/2026,03/19/2025,03/19/2025,Diana Miranda
+F-111195,VIO Med Spa Flower Mound,Joseph Wright,04/08/1982,338-334-4063,tammiemorales@example.org,2,REWARDS,Eligible for Treatment,$40,12/19/2025,03/20/2027,03/13/2025,09/20/2025,rebecca bievenue
+F-111195,VIO Med Spa Flower Mound,Mr. Steven Mahoney Jr.,08/22/1989,(531)216-3492,pcabrera@example.org,3,REWARDS,Not Yet Eligible,$40,01/29/2026,05/01/2027,03/12/2025,10/31/2025,Diana Miranda
+F-111195,VIO Med Spa Flower Mound,Debra Smith,09/07/1985,(591)220-0660x4052,deborah05@example.com,1,REWARDS,Eligible for Treatment,$40,06/03/2025,09/05/2026,03/05/2025,03/05/2025,Diana Miranda
+F-111195,VIO Med Spa Flower Mound,Donna Lopez,03/14/1971,(739)252-3009,srose@example.com,1,REWARDS,Eligible for Treatment,$40,06/03/2025,09/05/2026,03/05/2025,03/05/2025,Diana Miranda
+F-111195,VIO Med Spa Flower Mound,Eugene Weber,10/18/1974,001-255-853-5237,ortizdennis@example.org,1,REWARDS,Eligible for Treatment,$40,05/29/2025,08/28/2026,02/28/2025,02/28/2025,Diana Miranda
+F-111195,VIO Med Spa Flower Mound,Nicole Jones,09/26/1962,946-642-3000x5998,nwarren@example.com,3,REWARDS,Not Yet Eligible,$40,03/02/2026,06/02/2027,02/26/2025,12/02/2025,Diana Miranda
+F-111195,VIO Med Spa Flower Mound,Alexis Tucker,03/20/1968,2165467466,dclements@example.net,1,REWARDS,Eligible for Treatment,$40,05/27/2025,08/26/2026,02/26/2025,02/26/2025,Diana Miranda
+F-111195,VIO Med Spa Flower Mound,Susan Singleton,10/05/1960,606-465-1388x1928,shawtami@example.com,1,REWARDS,Eligible for Treatment,$40,05/27/2025,08/26/2026,02/26/2025,02/26/2025,Diana Miranda
+F-111195,VIO Med Spa Flower Mound,Steven Schneider,09/13/1984,+1-297-384-8739x140,meyererica@example.net,2,REWARDS,Eligible for Treatment,$40,11/25/2025,02/27/2027,02/25/2025,08/27/2025,Diana Miranda
+F-111195,VIO Med Spa Flower Mound,Joseph Medina,12/23/1965,+1-953-309-5792x3621,joel06@example.net,2,REWARDS,Eligible for Treatment,$40,09/26/2025,12/28/2026,02/24/2025,06/28/2025,Diana Miranda
+F-111195,VIO Med Spa Flower Mound,Deborah Harrison,12/10/1998,+1-401-411-2644x826,copelandian@example.com,2,REWARDS,Eligible for Treatment,$40,01/09/2026,04/11/2027,06/25/2025,10/11/2025,Diana Miranda
+F-111195,VIO Med Spa Flower Mound,Charles Wiggins,02/02/1994,318-382-9472,jorgehopkins@example.net,1,REWARDS,Eligible for Treatment,$40,05/22/2025,08/21/2026,02/21/2025,02/21/2025,Diana Miranda
+F-111195,VIO Med Spa Flower Mound,Kevin Atkins,04/08/1993,001-813-848-5408x809,ustanton@example.net,3,REWARDS,Not Yet Eligible,$40,02/18/2026,05/20/2027,01/02/2025,11/20/2025,rebecca bievenue
+F-111195,VIO Med Spa Flower Mound,Julia Sims,08/13/1973,+1-263-431-7208x326,kleinjessica@example.com,2,REWARDS,Not Yet Eligible,$40,02/03/2026,05/05/2027,05/09/2025,11/05/2025,Diana Miranda
+F-111195,VIO Med Spa Flower Mound,Bradley Castro,01/25/1995,001-636-684-9259x506,rebecca10@example.com,1,REWARDS,Eligible for Treatment,$40,12/01/2025,03/02/2027,02/15/2024,02/15/2024,Megan Hillmann
+F-111195,VIO Med Spa Flower Mound,Kathleen Bartlett,11/11/1972,001-628-316-1869,nancybowman@example.net,3,REWARDS,Eligible for Treatment,$40,09/30/2025,01/02/2027,12/01/2023,07/02/2025,Diana Miranda
+F-111195,VIO Med Spa Flower Mound,Michael Wallace,05/08/1967,946-435-6058,glowery@example.net,3,REWARDS,Eligible for Treatment,$40,12/05/2025,03/06/2027,11/30/2023,09/06/2025,rebecca bievenue
+F-111195,VIO Med Spa Flower Mound,Rachel Lee,06/25/1987,4817132449,michelle34@example.net,1,REWARDS,Eligible for Treatment,$40,09/01/2025,12/03/2026,10/26/2023,10/26/2023,
+F-111195,VIO Med Spa Flower Mound,William Stewart,01/20/1964,001-285-652-7771x75435,qhunt@example.net,3,REWARDS,Eligible for Treatment,$40,12/10/2025,03/11/2027,10/07/2023,09/11/2025,Diana Miranda
+F-111195,VIO Med Spa Flower Mound,Brian Lozano,04/05/1976,+1-223-641-3480x2925,kellybailey@example.net,1,REWARDS,Eligible for Treatment,$40,07/02/2025,10/03/2026,09/28/2023,09/28/2023,
+F-111195,VIO Med Spa Flower Mound,Clinton Roman,Invalid Date,(899)249-0403,kathleen58@example.net,2,REWARDS,Eligible for Treatment,$40,11/05/2025,02/07/2027,03/03/2023,06/14/2023,Jacqueline Miles
+F-111195,VIO Med Spa Flower Mound,Haley Adkins,Invalid Date,001-237-392-3159x712,amycross@example.org,2,REWARDS,Eligible for Treatment,$40,07/03/2025,10/04/2026,08/30/2022,04/04/2025,Diana Miranda
+F-111195,VIO Med Spa Flower Mound,Austin Gonzalez,Invalid Date,+1-676-430-0116x65161,kathleen07@example.org,1,REWARDS,Eligible for Treatment,$40,09/03/2025,12/05/2026,07/15/2022,07/15/2022,
+F-111195,VIO Med Spa Flower Mound,Anthony Brown,Invalid Date,252.306.2172,kturner@example.org,3,REWARDS,Eligible for Treatment,$40,11/07/2025,02/09/2027,04/29/2022,06/06/2023,Elaine Ver Halen
+F-111195,VIO Med Spa Flower Mound,Robert Jackson,Invalid Date,+1-482-915-8601x40636,rickey43@example.org,7,REWARDS,Eligible for Treatment,$40,05/26/2025,08/25/2026,03/18/2022,02/25/2025,Diana Miranda
+F-111195,VIO Med Spa Flower Mound,Carolyn Warren,Invalid Date,431-650-7606,bradleyeric@example.org,1,REWARDS,Eligible for Treatment,$40,01/18/2026,04/20/2027,01/03/2022,01/03/2022,
+F-111195,VIO Med Spa Flower Mound,Hannah Zuniga,Invalid Date,001-524-595-5393x53258,peter75@example.com,7,REWARDS,Eligible for Treatment,$40,08/22/2025,11/24/2026,08/27/2021,05/24/2025,Diana Miranda
+F-111195,VIO Med Spa Flower Mound,Michael Mendez,Invalid Date,+1-561-400-9625x55584,cannonjason@example.org,1,REWARDS,Not Yet Eligible,$40,02/12/2026,05/14/2027,08/13/2021,08/13/2021,
+F-111195,VIO Med Spa Flower Mound,Jose Rogers,Invalid Date,803.362.9396x272,copelanddale@example.com,2,REWARDS,Not Yet Eligible,$40,01/30/2026,05/01/2027,08/12/2020,11/01/2025,rebecca bievenue
+F-111195,VIO Med Spa Flower Mound,Amber Whitney,Invalid Date,001-856-958-5775x0847,manuel27@example.net,3,REWARDS,Not Yet Eligible,$40,03/11/2026,06/11/2027,06/24/2020,12/11/2025,Diana Miranda
